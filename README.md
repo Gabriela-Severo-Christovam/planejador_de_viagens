@@ -1,4 +1,4 @@
-**Organização do projeto: planejador_de_viagens
+**Organização do projeto: planejador_de_viagens**
 HTML: David e Emily
 CSS: Reginaldo, Maria Eduarda e David
 JavaScript: Gabriela e Maria Fernanda
