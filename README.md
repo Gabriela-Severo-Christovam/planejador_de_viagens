@@ -20,10 +20,6 @@ Bootstrap: Para o desenvolvimento de um layout responsivo e otimizado.
 
 Apresenta a quilometragem total entre os pontos de partida e chegada, ajudando o usuário a ter uma noção clara da extensão da viagem.
 
-**Tempo Estimado de Viagem**
-
-Calcula automaticamente o tempo necessário para completar o trajeto, com base em dados reais de trânsito e velocidade média da via.
-
 **Informações sobre Pedágios**
 
 Identifica se há pedágios ao longo do caminho e mostra o valor de cada um, permitindo que o usuário estime melhor os custos totais da viagem.
