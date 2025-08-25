@@ -17,6 +17,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 🧩 Bootstrap: Para o desenvolvimento de um layout responsivo e otimizado
 
 
+
 **✨ Funcionalidades**
 
 **Distância Total do Percurso**
