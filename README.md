@@ -1,8 +1,11 @@
 **Organização do projeto: planejador_de_viagens**
 
 HTML: David e Emily
+
 CSS: Reginaldo, Maria Eduarda e David
+
 JavaScript: Gabriela e Maria Fernanda
+
 
 Dividimos as tarefas com base nas afinidades de cada integrante do grupo. A parte de HTML foi estruturada utilizando o Bootstrap, para facilitar a criação de um layout responsivo e diminuir a maior parte de configurações manuais no CSS.
 No CSS, usamos o :root para definir as cores principais do projeto, para padronização visual em todas as páginas. Também aplicamos bordas arredondadas e destacamos os blocos onde serão exibidos os resultados para os usuários.
