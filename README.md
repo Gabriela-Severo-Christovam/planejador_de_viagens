@@ -34,3 +34,5 @@ Sugere atrações turísticas e lugares interessantes ao longo da rota, para que
 **Cálculo de Custos da Viagem**
 
 Com base na distância, nos pedágios e em outras informações, o app ajuda o usuário a estimar o custo total da viagem.
+
+**GitPages:**  https://gabriela-severo-christovam.github.io/planejador_de_viagens/
